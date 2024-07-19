@@ -56,20 +56,6 @@
         "target": "main-iframe"
     },
     {
-        "name": "InstantID",
-        "url": "https://instantx-instantid.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "ID HQ",
-        "url": "https://ap123-illusiondiffusion.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
         "name": "Midjourney",
         "url": "https://mukaist-midjourney.hf.space",
         "iconLeft": "/assets/list/hf.svg",
@@ -77,14 +63,14 @@
         "target": "main-iframe"
     },
     {
-        "name": "Realvisxl",
+        "name": "RealVis XL",
         "url": "https://artificialguybr-realvisxl-free-demo.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "Auraflow",
+        "name": "AuraFlow",
         "url": "https://multimodalart-auraflow.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
@@ -128,6 +114,20 @@
     {
         "name": "TileUpscaler",
         "url": "https://gokaygokay-tile-upscaler.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "InstantID",
+        "url": "https://instantx-instantid.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "ID HQ",
+        "url": "https://ap123-illusiondiffusion.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
