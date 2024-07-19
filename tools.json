@@ -37,7 +37,7 @@
     {
         "name": "LivePortrait",
         "url": "https://kwaivgi-liveportrait.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
+        "iconLeft": "/assets/list/liveportrait.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
@@ -49,7 +49,7 @@
         "target": "main-iframe"
     },
     {
-        "name": "VideoToSummary",
+        "name": "VideoToSum",
         "url": "https://artificialguybr-video-transcription-smart-summary.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
@@ -108,6 +108,20 @@
         "name": "IDM-VTON",
         "url": "https://yisol-idm-vton.hf.space",
         "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "Kolors",
+        "url": "https://gokaygokay-kolors.hf.space",
+        "iconLeft": "/assets/list/kolors.png",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "Imagineo 4k",
+        "url": "https://prithivmlmods-imagineo-4k.hf.space",
+        "iconLeft": "/assets/list/kolors.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
