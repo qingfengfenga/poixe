@@ -21,70 +21,70 @@
         "target": "main-iframe"
     },
     {
-        "name": "HF-OpenGPT-4o",
+        "name": "OpenGPT-4o",
         "url": "https://kingnish-opengpt-4o.hf.space",
         "iconLeft": "/assets/list/dooy.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-SD-3-M",
+        "name": "SD-3-M",
         "url": "https://stabilityai-stable-diffusion-3-medium.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-LivePortrait",
+        "name": "LivePortrait",
         "url": "https://kwaivgi-liveportrait.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-Paints Undo",
+        "name": "Paints Undo",
         "url": "https://mohamedrashad-paintsundo.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-InstantID",
+        "name": "InstantID",
         "url": "https://instantx-instantid.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-IllusionDiffusion",
+        "name": "IllusionDiffusion",
         "url": "https://ap123-illusiondiffusion.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-midjourney",
+        "name": "midjourney",
         "url": "https://mukaist-midjourney.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-realvisxl",
+        "name": "realvisxl",
         "url": "https://artificialguybr-realvisxl-free-demo.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-auraflow",
+        "name": "auraflow",
         "url": "https://multimodalart-auraflow.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "HF-Animagine",
+        "name": "Animagine",
         "url": "https://cnkyuw1-animagine-xl-3-1.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
