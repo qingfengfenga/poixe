@@ -21,7 +21,7 @@
         "target": "main-iframe"
     },
     {
-        "name": "OpenGPT-4o",
+        "name": "OpenGPT4o",
         "url": "https://kingnish-opengpt-4o.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
@@ -79,6 +79,13 @@
     {
         "name": "Auraflow",
         "url": "https://multimodalart-auraflow.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "OpenDalle",
+        "url": "https://mrfakename-opendallev1-1-gpu-demo.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
