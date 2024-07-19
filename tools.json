@@ -7,34 +7,6 @@
         "target": "main-iframe"
     },
     {
-        "name": "Dooy",
-        "url": "https://vercel.ddaiai.com/",
-        "iconLeft": "/assets/list/dooy.png",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "HF-cnkyuw1",
-        "url": "https://cnkyuw1-animagine-xl-3-1.hf.space/",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "OpenKey",
-        "url": "https://chat1201.openkey.cloud/",
-        "iconLeft": "/assets/list/openkey.png",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "ChatBox",
-        "url": "https://web.chatboxai.app/",
-        "iconLeft": "/assets/list/chatbox.webp",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
         "name": "LobeChat",
         "url": "https://chat-preview.lobehub.com/chat",
         "iconLeft": "/assets/list/lobechat.png",
@@ -42,23 +14,79 @@
         "target": "main-iframe"
     },
     {
-        "name": "Translator",
-        "url": "https://translator.lance.moe/",
-        "iconLeft": "/assets/list/translator.png",
+        "name": "Dooy",
+        "url": "https://vercel.ddaiai.com/",
+        "iconLeft": "/assets/list/dooy.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "Tiktokenizer",
-        "url": "https://tiktokenizer.poixe.com/",
-        "iconLeft": "/assets/list/tiktokenizer.png",
+        "name": "HF-OpenGPT-4o",
+        "url": "https://kingnish-opengpt-4o.hf.space",
+        "iconLeft": "/assets/list/dooy.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "BigAGI",
-        "url": "https://get.big-agi.com/",
-        "iconLeft": "/assets/list/bigagi.webp",
+        "name": "HF-SD-3-M",
+        "url": "https://stabilityai-stable-diffusion-3-medium.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-LivePortrait",
+        "url": "https://kwaivgi-liveportrait.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-Paints Undo",
+        "url": "https://mohamedrashad-paintsundo.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-InstantID",
+        "url": "https://instantx-instantid.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-IllusionDiffusion",
+        "url": "https://ap123-illusiondiffusion.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-midjourney",
+        "url": "https://mukaist-midjourney.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-realvisxl",
+        "url": "https://artificialguybr-realvisxl-free-demo.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-auraflow",
+        "url": "https://multimodalart-auraflow.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-Animagine",
+        "url": "https://cnkyuw1-animagine-xl-3-1.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     }
