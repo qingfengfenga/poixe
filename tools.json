@@ -42,8 +42,15 @@
         "target": "main-iframe"
     },
     {
-        "name": "Paints Undo",
+        "name": "PaintsUndo",
         "url": "https://mohamedrashad-paintsundo.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "VideoToSummary",
+        "url": "https://artificialguybr-video-transcription-smart-summary.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
@@ -93,6 +100,20 @@
     {
         "name": "Animagine",
         "url": "https://cnkyuw1-animagine-xl-3-1.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "IDM-VTON",
+        "url": "https://yisol-idm-vton.hf.space",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "TileUpscaler",
+        "url": "https://gokaygokay-tile-upscaler.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
