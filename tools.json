@@ -1,15 +1,29 @@
 [
     {
-        "name": "OpenKey",
-        "url": "https://chat1201.openkey.cloud/",
-        "iconLeft": "/assets/list/openkey.png",
+        "name": "NextChat",
+        "url": "https://app.nextchat.dev/",
+        "iconLeft": "/assets/list/nextweb.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "NextChat",
-        "url": "https://app.nextchat.dev/",
-        "iconLeft": "/assets/list/nextweb.png",
+        "name": "Dooy",
+        "url": "https://vercel.ddaiai.com/",
+        "iconLeft": "/assets/list/dooy.png",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "HF-cnkyuw1-animagine-xl-3-1",
+        "url": "https://cnkyuw1-animagine-xl-3-1.hf.space/",
+        "iconLeft": "/assets/list/hf.svg",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "OpenKey",
+        "url": "https://chat1201.openkey.cloud/",
+        "iconLeft": "/assets/list/openkey.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
@@ -22,15 +36,8 @@
     },
     {
         "name": "LobeChat",
-        "url": "https://lobe.poixe.com/chat",
+        "url": "https://chat-preview.lobehub.com/chat",
         "iconLeft": "/assets/list/lobechat.png",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "Dooy",
-        "url": "https://vercel.ddaiai.com/",
-        "iconLeft": "/assets/list/dooy.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
