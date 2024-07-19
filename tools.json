@@ -23,7 +23,7 @@
     {
         "name": "OpenGPT-4o",
         "url": "https://kingnish-opengpt-4o.hf.space",
-        "iconLeft": "/assets/list/dooy.png",
+        "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
@@ -56,28 +56,28 @@
         "target": "main-iframe"
     },
     {
-        "name": "IllusionDiffusion",
+        "name": "ID HQ",
         "url": "https://ap123-illusiondiffusion.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "midjourney",
+        "name": "Midjourney",
         "url": "https://mukaist-midjourney.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "realvisxl",
+        "name": "Realvisxl",
         "url": "https://artificialguybr-realvisxl-free-demo.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
-        "name": "auraflow",
+        "name": "Auraflow",
         "url": "https://multimodalart-auraflow.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
