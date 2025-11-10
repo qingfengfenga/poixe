@@ -1,15 +1,22 @@
 [
     {
         "name": "NextChat",
-        "url": "https://app.nextchat.dev/",
+        "url": "https://app.nextchat.club/",
         "iconLeft": "/assets/list/nextweb.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
     {
         "name": "LobeChat",
-        "url": "https://chat-preview.lobehub.com/chat",
+        "url": "https://cloud1015-lobechat.hf.space/chat",
         "iconLeft": "/assets/list/lobechat.png",
+        "iconRight": "assets/github.svg",
+        "target": "main-iframe"
+    },
+    {
+        "name": "ChatBox",
+        "url": "https://web.chatboxai.app/",
+        "iconLeft": "/assets/list/chatbox.webp",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     },
@@ -21,36 +28,8 @@
         "target": "main-iframe"
     },
     {
-        "name": "OpenGPT4o",
-        "url": "https://kingnish-opengpt-4o.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
         "name": "SD-3-M",
         "url": "https://stabilityai-stable-diffusion-3-medium.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "LivePortrait",
-        "url": "https://kwaivgi-liveportrait.hf.space",
-        "iconLeft": "/assets/list/liveportrait.png",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "PaintsUndo",
-        "url": "https://mohamedrashad-paintsundo.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "VideoToSum",
-        "url": "https://artificialguybr-video-transcription-smart-summary.hf.space",
         "iconLeft": "/assets/list/hf.svg",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
@@ -63,72 +42,9 @@
         "target": "main-iframe"
     },
     {
-        "name": "RealVis XL",
-        "url": "https://artificialguybr-realvisxl-free-demo.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "AuraFlow",
-        "url": "https://multimodalart-auraflow.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "OpenDalle",
-        "url": "https://mrfakename-opendallev1-1-gpu-demo.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "Animagine",
-        "url": "https://cnkyuw1-animagine-xl-3-1.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "IDM-VTON",
-        "url": "https://yisol-idm-vton.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "Kolors",
-        "url": "https://gokaygokay-kolors.hf.space",
-        "iconLeft": "/assets/list/kolors.png",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "Imagineo4k",
-        "url": "https://prithivmlmods-imagineo-4k.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "TileUpscaler",
-        "url": "https://gokaygokay-tile-upscaler.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "InstantID",
-        "url": "https://instantx-instantid.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
-        "iconRight": "assets/github.svg",
-        "target": "main-iframe"
-    },
-    {
-        "name": "ID HQ",
-        "url": "https://ap123-illusiondiffusion.hf.space",
-        "iconLeft": "/assets/list/hf.svg",
+        "name": "Chat100",
+        "url": "https://chat100.ai/app",
+        "iconLeft": "/assets/list/chat100.png",
         "iconRight": "assets/github.svg",
         "target": "main-iframe"
     }
